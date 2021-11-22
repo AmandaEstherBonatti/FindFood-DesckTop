@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f04b5f4-4b2f-4b54-bc97-c2e64d5c81ef": {
+      "ProjectGuid": "1f04b5f4-4b2f-4b54-bc97-c2e64d5c81ef",
+      "DisplayName": "Database",
+      "ColorIndex": 0
+    },
+    "6e177c48-bbdb-4a36-8273-e09b1ad87ba2": {
+      "ProjectGuid": "6e177c48-bbdb-4a36-8273-e09b1ad87ba2",
+      "DisplayName": "FindFood",
+      "ColorIndex": 1
+    },
+    "c38714d2-b3ca-4760-bc8a-a9b922e0dcf5": {
+      "ProjectGuid": "c38714d2-b3ca-4760-bc8a-a9b922e0dcf5",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
